@@ -1,2 +1,0 @@
-# qaso
-Proyecto qaso
